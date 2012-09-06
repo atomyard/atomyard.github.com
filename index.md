@@ -1,36 +1,29 @@
 ---
 layout: page
-title: Hello World!
+title: Web App and Mobile Developer
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Atom Yard develops apps for mobile and web.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Web Apps
 
-## Update Author Attributes
++ [**Review Mailer**](/reviewmailer)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+Find out what customers are saying about your App Store applications.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+[ ![Review Mailer screenshot](assets/img/screen_preview.png "Review Mailer") ](http://www.reviewmailer.com)
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+[Find out more here](http://www.reviewmailer.com)
 
-    $ rm -rf _posts/core-samples
+## Mobile Apps for iPhone®
 
-Here's a sample "posts list".
++ [**Noted! for iPhone®**](/noted)
+
++ [**Health Help for iPhone®**](/healthhelp)
+
+## Blog Posts
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -38,9 +31,8 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## Contact Us
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+If you have any questions or comments, contact us [here](mailto:support@atomyard.com).
 
 
