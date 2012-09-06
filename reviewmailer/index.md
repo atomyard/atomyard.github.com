@@ -5,7 +5,7 @@ description: "Review Mailer Web App"
 ---
 {% include JB/setup %}
 
-**Review Mailer**
+**Review Mailer Web App**
 
 Find out what customers are saying about your App Store applications.
 
