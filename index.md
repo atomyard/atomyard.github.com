@@ -7,15 +7,17 @@ tagline: Supporting tagline
 
 Atom Yard develops apps for mobile and web.
 
+## Apps for Shopify
+
++ [**Local Delivery App for Shopify**](/localdelivery)
+
+[ ![Local Delivery](/assets/img/local_delivery.jpg "Local Delivery") ](http://apps.shopify.com/local-delivery-1)
+
+Coming soon!
+
 ## Web Apps
 
 + [**Review Mailer**](/reviewmailer)
-
-Find out what customers are saying about your App Store applications.
-
-[ ![Review Mailer screenshot](assets/img/screen_preview.png "Review Mailer") ](http://www.reviewmailer.com)
-
-[Find out more here](http://www.reviewmailer.com)
 
 ## Mobile Apps for iPhone®
 
