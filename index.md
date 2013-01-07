@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Atom Yard develops apps for mobile and web.
+Atom Yard is an Australian based developer of Web, Mobile and Shopify Apps.
 
 ## Apps for Shopify
 
@@ -13,7 +13,7 @@ Atom Yard develops apps for mobile and web.
 
 [ ![Local Delivery](/assets/img/local_delivery.jpg "Local Delivery") ](http://apps.shopify.com/local-delivery-1)
 
-Coming soon!
+[Find out more](http://apps.shopify.com/local-delivery-1)
 
 ## Web Apps
 

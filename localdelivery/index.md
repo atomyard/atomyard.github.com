@@ -8,5 +8,5 @@ description: "Local Delivery App for Shopify"
 **Local Delivery App for Shopify**
 [ ![Local Delivery](/assets/img/local_delivery.jpg "Local Delivery") ](http://apps.shopify.com/local-delivery-1)
 
-Coming soon!
+[Find out more](http://apps.shopify.com/local-delivery-1)
                                     
