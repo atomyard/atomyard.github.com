@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web App and Mobile Developer
+title: Atom Yard - Web, Mobile and Shopify App Developer
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
