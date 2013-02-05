@@ -1,12 +1,19 @@
 ---
 layout: page
-title: "Local Delivery App for Shopify"
-description: "Local Delivery App for Shopify"
+title: Atom Yard - Local Delivery App for Shopify
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-**Local Delivery App for Shopify**
-[ ![Local Delivery](/assets/img/local_delivery.jpg "Local Delivery") ](http://apps.shopify.com/local-delivery-1)
+<div class="jumbotron">
+        <h1>Take Control of Your Deliveries</h1>
+        <p class="lead">Introducing the Local Delivery App for Shopify.</p>
+        <a href='http://apps.shopify.com/local-delivery-1'><img class="img-rounded" alt='Local Delivery' src='/assets/img/local_delivery.jpg' /></a>
+        <p class="lead">Available on the Shopify App Store.</p>
+        <a class="btn btn-primary btn-large" href="http://apps.shopify.com/local-delivery-1">Find it here &raquo;</a>
+</div>
 
-[Find out more](http://apps.shopify.com/local-delivery-1)
+
+
+
                                     

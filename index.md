@@ -5,36 +5,13 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Atom Yard is an Australian based developer of Web, Mobile and Shopify Apps.
+<div class="jumbotron">
+        <h1>Take Control of Your Deliveries</h1>
+        <p class="lead">Introducing the Local Delivery App for Shopify.</p>
+        <a href='http://apps.shopify.com/local-delivery-1'><img class="img-rounded" alt='Local Delivery' src='/assets/img/local_delivery.jpg' /></a>
+        <p class="lead">Available on the Shopify App Store.</p>
+        <a class="btn btn-primary btn-large" href="http://apps.shopify.com/local-delivery-1">Find it here &raquo;</a>
+</div>
 
-## Apps for Shopify
-
-+ [**Local Delivery App for Shopify**](/localdelivery)
-
-[ ![Local Delivery](/assets/img/local_delivery.jpg "Local Delivery") ](http://apps.shopify.com/local-delivery-1)
-
-[Find out more](http://apps.shopify.com/local-delivery-1)
-
-## Web Apps
-
-+ [**Review Mailer**](/reviewmailer)
-
-## Mobile Apps for iPhone®
-
-+ [**Noted! for iPhone®**](/noted)
-
-+ [**Health Help for iPhone®**](/healthhelp)
-
-## Blog Posts
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## Contact Us
-
-If you have any questions or comments, contact us [here](mailto:support@atomyard.com).
 
 
