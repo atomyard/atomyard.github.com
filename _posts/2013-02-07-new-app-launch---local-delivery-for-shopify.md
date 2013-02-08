@@ -4,7 +4,7 @@ title: "New App Launch - Local Delivery for Shopify"
 ---
 <br>
 <div style="text-align: center;">
-	<a href='http://apps.shopify.com/local-delivery-1'><img class="img-rounded" alt='Local Delivery' src='/assets/img/local_delivery.jpg' style="width: 50%; height: 50%"/></a>
+	<a href='http://apps.shopify.com/local-delivery-1'><img class="img-rounded" alt='Local Delivery' src='/assets/img/local_delivery.jpg' style="width: 50%;"/></a>
 </div>
    
 <br>
