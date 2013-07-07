@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atom Yard - Web, Mobile and Shopify App Developer
+title: Atom Yard - Better Shipping App for Shopify
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -12,6 +12,3 @@ tagline: Supporting tagline
         <p class="lead">Available on the Shopify App Store.</p>
         <a class="btn btn-primary btn-large" href="http://apps.shopify.com/better-shipping">Find it here &raquo;</a>
 </div>
-
-
-
