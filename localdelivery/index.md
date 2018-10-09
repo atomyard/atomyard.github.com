@@ -7,10 +7,10 @@ tagline: Supporting tagline
 
 <div class="jumbotron">
         <h1>Take Control of Your Deliveries</h1>
-        <p class="lead">Introducing the Local Delivery App for Shopify.</p>
-        <a href='http://apps.shopify.com/local-delivery-1'><img class="img-rounded" alt='Local Delivery' src='/assets/img/local_delivery.jpg' /></a>
+        <p class="lead">with the Local Delivery App for Shopify.</p>
+        <a href='https://apps.shopify.com/local-delivery-1'><img class="img-rounded" alt='Local Delivery' src='/assets/img/local_delivery.jpg' /></a>
         <p class="lead">Available on the Shopify App Store.</p>
-        <a class="btn btn-primary btn-large" href="http://apps.shopify.com/local-delivery-1">Find it here &raquo;</a>
+        <a class="btn btn-primary btn-large" href="https://apps.shopify.com/local-delivery-1">Find it here &raquo;</a>
 </div>
 
 

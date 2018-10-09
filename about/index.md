@@ -9,13 +9,11 @@ description: "Atom Yard About"
 
 Atom Yard is an Australian based developer of Web, Mobile and Shopify Apps. We are available for custom app development and Shopify store customization.  
 
-<br>
-
-Check out our profile on the [Shopify Experts Directory](http://experts.shopify.com/atom-yard).  
+Check out our apps on the [Shopify App Store](https://apps.shopify.com/partners/atom-yard).
 
 <br>
 
-[ ![Shopify Experts](/assets/img/developer-shopify-logo.png "Shopify Experts") ](http://experts.shopify.com/atom-yard)  
+[ ![Shopify Partners](/assets/img/shopify-partner.png "Shopify Partners") ](https://apps.shopify.com/partners/atom-yard)
 
 <br>
 

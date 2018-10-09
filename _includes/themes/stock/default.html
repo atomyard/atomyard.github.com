@@ -5,9 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <meta name="description" content="Atom Yard is an Australian based developer of Web, Mobile and Shopify Apps. ">
-    <meta name="keywords" content="iphone,ios,app,development,web,apple,noted,shopify,apps,local,delivery,order">
+    <meta name="keywords" content="iphone,ios,app,development,web,apple,noted,shopify,apps,local,delivery,order,better,shipping">
     <meta name="author" content="{{ site.author.name }}">
-    <link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 
     <!-- Le styles -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -120,10 +119,10 @@
       <footer>
         <div class="row-fluid">
           <div class="span6">
-            <p>&copy; {{ site.author.name }} 2013</p>
+            <p>&copy; {{ site.author.name }} {{ 'now' | date: "%Y" }}</p>
           </div>
         <div class="span2 pull-right">
-          <a href='http://experts.shopify.com/atom-yard'><img src='/assets/img/developer-shopify-logo.png' alt='Shopify Experts' /></a>
+          <a href='https://apps.shopify.com/partners/atom-yard'><img src='/assets/img/shopify-partner.png' alt='Shopify Partners' /></a>
         </div>
       </footer>
 
@@ -134,17 +133,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
-
-    <script>
-      (function(d, s) {
-        var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
-        if (d.getElementById(id)) {return;}
-        js = d.createElement(s); js.src = url; js.id = id;
-        fjs.parentNode.insertBefore(js, fjs);
-        };
-      load('//platform.twitter.com/widgets.js', 'tweetjs');
-      }(document, 'script'));
-    </script>
 
     {% include JB/analytics %}
   </body>
