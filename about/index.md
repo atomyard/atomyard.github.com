@@ -20,3 +20,12 @@ Check out our apps on the [Shopify App Store](https://apps.shopify.com/partners/
 ## Contact Us
 
 If you have any questions, comments or app suggestions, contact us [here](mailto:support@atomyard.com).
+
+<br>
+
+## Privacy Policies
+
+[Local Delivery](/localdelivery/local-delivery-privacy-policy)
+
+
+[Better Shipping](/bettershipping/better-shipping-privacy-policy)
